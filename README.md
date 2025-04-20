@@ -49,6 +49,7 @@ LoanPayback_Streamlit_DEMO/
 ├── LoanPayback_ModelCREATE_SAVE.ipynb   # Jupyter Notebook containing the code to train a model and save using pickle
 ├── LoanPayback_Streamlit_DEMO.py        # Python script file created from Jupyter notebook with app code
 ├── lend_logistic_model.pkl              # Pre-trained Logistic Regression model (pickle file)
+├── requirements.txt                     # Packages needed to run file
 └── README.md                            # Project documentation
 ```
 
